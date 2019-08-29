@@ -1,0 +1,2 @@
+mount -o rw,remount /system
+

@@ -1,0 +1,23 @@
+--APKTOOL FOLDER:
+apktool_old: 1.5.2     No update until the new version doesn't work for lollipop
+apktool_new: 2.2.1     https://bitbucket.org/iBotPeaches/apktool/downloads
+baksmali/smali: 2.2b4     https://bitbucket.org/JesusFreke/smali/downloads
+
+--BIN FOLDER:
+7za: 16.04     http://www.7-zip.org/download.html
+ext2simg, make_ext4fs, simg2img, sgs4ext4fs: compiled from android 6 source code     http://forum.xda-developers.com/showthread.php?t=2600364
+mksquashfs: 1.8     http://forum.xda-developers.com/remix/remix-os/rmxtools-remix-os-data-img-t3308158
+
+--XBIN FOLDER:
+busybox: 1.25.1     http://forum.xda-developers.com/showthread.php?t=2239421
+
+--DEODEX FOLDER:
+oat2dex_med: 0.86     https://github.com/testwhat/SmaliEx/releases
+oat2dex_new: 0.88     https://github.com/testwhat/SmaliEx/releases
+oat2dex_old: 0.83     https://github.com/testwhat/SmaliEx/releases
+baksmali/smali: 2.0.6     No update until the new version doesn't work for lollipop
+
+--INSTALLER FOLDER:
+odin: 3.12.3     http://odindownload.com/
+
+--NotePad++: 7.1     https://notepad-plus-plus.org/download
