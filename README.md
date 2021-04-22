@@ -1,10 +1,19 @@
-<h1>ASSAYYED_KITCHEN</h1>
-ASSAYYED_KITCHEN_V1.82_STABLE
+<h1>ASSAYYED_KITCHEN_V1.82_STABLE</h1>
+A modified Fork of the original repo linked above.
 
-no longer maintained, this is the last version, <br/>
+
+Since Assayyed Kitchen is no longer maintained and the last version is <br/>
 taken from https://mega.nz/#!fAIkBZKQ!aS-9yNL9GKgVzgJd9C5DWJtjD_fNM6bHTiz-1KnsydA <br/>
-original thread was https://forum.xda-developers.com/chef-central/android/best-android-roms-editor-assayyedkitchen-t3410545 <br/>
+
+You can read the original XDA Forums thread here-->  https://forum.xda-developers.com/chef-central/android/best-android-roms-editor-assayyedkitchen-t3410545 <br/>
 <br/>
+<h2>This repo is Forked from eladkarako with the intention of updating and creating additional functions</h2> 
+
+This Android kitchen gave me a spark of interest in coding and development of Android and OpenSource software. I have modded many ROMs with over a couple years of use
+and want to contribute as much as I can to the original or possibly use this as inspiration for future projects.
+
+<h3>The following was written by the original repo creator</h3>
+
 I've UnUPX (unpacked the UPX compression) most of the files, but that's it, other than that it's the latest (semi-)unmodified version of v1.82.
 <br/>
 Note: I would recommend you'll use a newer better "kitchen" such as SuperR's free version: https://forum.xda-developers.com/t/linux-free-superrs-kitchen-v1-2-1-2-7-24-20.3597434/ .
